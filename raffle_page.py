@@ -17,3 +17,5 @@ schedule.every().day.at("12:30").do(job)
 while True:
     schedule.run_pending()
     time.sleep(1)
+
+    #pyinstaller --noconsole --onefile raffle_page.py
