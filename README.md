@@ -3,9 +3,9 @@
 Automatically opens 3 raffle-sites at 12 : 30 .
 
 sites : 
-    https://store.musinsa.com/app/raffle/lists?raffle_state_gb=S
-    https://www.shoeprize.com/
-    https://www.luck-d.com/
+    https://store.musinsa.com/app/raffle/lists?raffle_state_gb=S  
+    https://www.shoeprize.com/  
+    https://www.luck-d.com/  
     
 
 ***
