@@ -14,4 +14,9 @@ sites :
 2. download 'raffle_page.exe' in 'dist' folder
 3. add 'raffle_page.exe' into startup folder (approach by 'cmd - shell:startup')
 4. restart the computer
-5. turn on the 'windows defender'
+
+
+## CONSIDER
+If the 'windows defender' is on, .exe file (is made by pyinstaller) will automatically be turned off.
+While the 'windows defender' is off, Window OS will be less guaranteed in protecting your computer from malwares.
+If you want to run this program continuously in your computer, using additional antivirus software is recommended.
