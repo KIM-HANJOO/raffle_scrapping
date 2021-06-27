@@ -17,6 +17,6 @@ sites :
 
 
 ## CONSIDER
-If the 'windows defender' is on, .exe file (is made by pyinstaller) will automatically be turned off.
+If the 'windows defender' is on, .exe file (which is made by pyinstaller) will automatically be turned off.
 While the 'windows defender' is off, Window OS will be less guaranteed in protecting your computer from malwares.
 If you want to run this program continuously in your computer, using additional antivirus software is recommended.
