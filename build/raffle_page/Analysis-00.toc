@@ -928,6 +928,10 @@
    'c:\\users\\stephen '
    'kim\\appdata\\local\\programs\\python\\python39\\lib\\os.py',
    'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\stephen '
+   'kim\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
+   'PYMODULE'),
   ('tracemalloc',
    'c:\\users\\stephen '
    'kim\\appdata\\local\\programs\\python\\python39\\lib\\tracemalloc.py',
@@ -935,10 +939,6 @@
   ('_py_abc',
    'c:\\users\\stephen '
    'kim\\appdata\\local\\programs\\python\\python39\\lib\\_py_abc.py',
-   'PYMODULE'),
-  ('stringprep',
-   'c:\\users\\stephen '
-   'kim\\appdata\\local\\programs\\python\\python39\\lib\\stringprep.py',
    'PYMODULE'),
   ('webbrowser',
    'c:\\users\\stephen '
